@@ -1,4 +1,7 @@
 const test1 = 10;
+const test2 = 123114;
+const test3 = 121;
+const test4 = 5;
 const convert_to_one = (n: number) => {
   const arr: Array<number> = new Array(n + 1);
   arr.fill(0);
@@ -17,3 +20,6 @@ const convert_to_one = (n: number) => {
   return arr[n];
 };
 console.log(convert_to_one(test1));
+console.log(convert_to_one(test2));
+console.log(convert_to_one(test3));
+console.log(convert_to_one(test4));
