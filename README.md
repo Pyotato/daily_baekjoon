@@ -22,4 +22,4 @@
 
 1. **WEEK1**
    1. [[2023.05.09][DP] DAY1 : 1463번 1로 만들기](https://www.acmicpc.net/source/60497064)
-   2. [[2023.05.09][recursion] DAY2 : 9095번 1,2,3](https://www.acmicpc.net/source/60551650)
+   2. [[2023.05.09][recursion] DAY2 : 9095번 1,2,3 더하기](https://www.acmicpc.net/source/60551650)
