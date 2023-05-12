@@ -24,3 +24,4 @@
    1. [[2023.05.09][DP] DAY1 : 1463번 1로 만들기](https://www.acmicpc.net/source/60497064)
    2. [[2023.05.10][recursion] DAY2 : 9095번 1,2,3 더하기](https://www.acmicpc.net/source/60551650)
    3. [[2023.05.11][dfs] DAY3 : 1182번 부분수열의 합](https://www.acmicpc.net/source/60604280)
+   4. [[2023.05.11][bruteforce] DAY4 : 13305번 주유소](https://www.acmicpc.net/source/60687361)
