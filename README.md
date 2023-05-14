@@ -26,4 +26,4 @@
    3. [[2023.05.11][dfs] DAY3 : 1182번 부분수열의 합](https://www.acmicpc.net/source/60604280)
    4. [[2023.05.12][bruteforce] DAY4 : 13305번 주유소](https://www.acmicpc.net/source/60687361)
    5. [[2023.05.13][bruteforce][bfs][dfs] DAY5 : 2468번 안전 영역](https://www.acmicpc.net/source/60719744)
-   6. [[2023.05.14] DAY6 : 골드바흐의 추측](https://www.acmicpc.net/source/60719744)
+   6. [[2023.05.14][Math] DAY6 : 골드바흐의 추측](https://www.acmicpc.net/source/60744191)
