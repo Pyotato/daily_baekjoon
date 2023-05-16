@@ -23,7 +23,7 @@ def c_start(n,m,start,end):
     cnt=0
     for i in range(n,n+8):
         # 0,2,4,6번쨰 행
-        if i%2==1:
+        if i%2==0:
             for j in range(m,m+8):
                 if j%2==0: #0,2,4,6번쨰 열
                     cnt=cnt+1 if c[i][j]==start else cnt
