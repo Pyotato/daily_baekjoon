@@ -28,4 +28,4 @@
    5. [[2023.05.13][bruteforce][bfs][dfs] DAY5 : 2468번 안전 영역](https://www.acmicpc.net/source/60719744)
    6. [[2023.05.14][Math] DAY6 : 골드바흐의 추측](https://www.acmicpc.net/source/60744191)
    7. [[2023.05.15][bruteforce] DAY7 : 체스판 다시 칠하기](https://www.acmicpc.net/source/60788891)
-   8. [[2023.05.16][queue] DAY8 : 큐](https://www.acmicpc.net/source/60833915)
+   8. [[2023.05.16][queue] DAY8 : 큐](https://www.acmicpc.net/source/60788891)
