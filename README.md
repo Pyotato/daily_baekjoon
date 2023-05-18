@@ -29,4 +29,5 @@
    6. [[2023.05.14][Math] DAY6 : 골드바흐의 추측](https://www.acmicpc.net/source/60744191)
    7. [[2023.05.15][bruteforce] DAY7 : 체스판 다시 칠하기](https://www.acmicpc.net/source/60788891)
    8. [[2023.05.16][data structure][queue] DAY8 : 큐](https://www.acmicpc.net/source/60788891)
-   9. [[2023.05.17][data structure][double-ended-queue] DAY8 : 덱](https://www.acmicpc.net/source/60886868)
+   9. [[2023.05.17][data structure][double-ended-queue] DAY9 : 덱](https://www.acmicpc.net/source/60886868)
+   10. [[2023.05.18][data structure][hash][binary search][sort] DAY10 : 숫자카드 2](https://www.acmicpc.net/source/60952461)
