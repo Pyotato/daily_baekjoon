@@ -31,3 +31,4 @@
    8. [[2023.05.16][data structure][queue] DAY8 : 큐](https://www.acmicpc.net/source/60788891)
    9. [[2023.05.17][data structure][double-ended-queue] DAY9 : 덱](https://www.acmicpc.net/source/60886868)
    10. [[2023.05.18][data structure][hash][binary search][sort] DAY10 : 숫자카드 2](https://www.acmicpc.net/source/60952461)
+   11. [[2023.05.19][Math] DAY11 : 최대공약수와 최소공배수](https://www.acmicpc.net/source/60985646)
