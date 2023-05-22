@@ -28,7 +28,13 @@
    5. [[2023.05.13][bruteforce][bfs][dfs] DAY5 : 2468번 안전 영역](https://www.acmicpc.net/source/60719744)
    6. [[2023.05.14][Math] DAY6 : 골드바흐의 추측](https://www.acmicpc.net/source/60744191)
    7. [[2023.05.15][bruteforce] DAY7 : 체스판 다시 칠하기](https://www.acmicpc.net/source/60788891)
-   8. [[2023.05.16][data structure][queue] DAY8 : 큐](https://www.acmicpc.net/source/60788891)
-   9. [[2023.05.17][data structure][double-ended-queue] DAY9 : 덱](https://www.acmicpc.net/source/60886868)
-   10. [[2023.05.18][data structure][hash][binary search][sort] DAY10 : 숫자카드 2](https://www.acmicpc.net/source/60952461)
-   11. [[2023.05.19][Math] DAY11 : 최대공약수와 최소공배수](https://www.acmicpc.net/source/60985646)
+2. **WEEK2**
+   1. [[2023.05.16][data structure][queue] DAY8 : 큐](https://www.acmicpc.net/source/60788891)
+   2. [[2023.05.17][data structure][double-ended-queue] DAY9 : 덱](https://www.acmicpc.net/source/60886868)
+   3. [[2023.05.18][data structure][hash][binary search][sort] DAY10 : 숫자카드 2](https://www.acmicpc.net/source/60952461)
+   4. [[2023.05.19][Math] DAY11 : 최대공약수와 최소공배수](https://www.acmicpc.net/source/60985646)
+   5. [[2023.05.20][bruteforce] DAY12 : 블랙잭](https://www.acmicpc.net/source/61028312)
+   6. [[2023.05.21][bruteforce][dynamic programming] DAY13 : 설탕배달](https://www.acmicpc.net/source/61070408)
+   7. [[2023.05.22][11050][Math][combination] DAY14 : 이항계수](https://www.acmicpc.net/source/61112734)
+3. **WEEK3**
+   1. [[2023.05.23][11050][dp] DAY15 : 2xn 타일링](https://www.acmicpc.net/source/61162799)
