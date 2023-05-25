@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/problem/1259
 from sys import stdin
 while True:
     num = stdin.readline().strip()

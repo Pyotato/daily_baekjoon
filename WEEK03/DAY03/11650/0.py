@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/11650
+
 # x, y 좌표 오름차순 정렬
 from sys import stdin
 N = int(stdin.readline())
