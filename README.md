@@ -39,6 +39,8 @@
 3. **WEEK3**
    1. [[2023.05.23][11726][dp] DAY15 : 2xn 타일링](https://www.acmicpc.net/source/61162799)
    2. [[2023.05.24][11399][dp] DAY16 : ATM](https://www.acmicpc.net/source/61213691)
-   3. [[2023.05.25][1259][implement] DAY17 :펠림드롬수](https://www.acmicpc.net/source/61261344)
-   4. [[2023.05.25][4153][Math] DAY17 : 직각삼각형](https://www.acmicpc.net/source/61261561)
-   5. [[2023.05.25][11650][Sort] DAY17 : 좌표 정렬하기](https://www.acmicpc.net/source/61262381)
+   3. [[2023.05.25][11399][dp] DAY17 : 1로 만들기](https://www.acmicpc.net/source/60497064)
+   4. [[2023.05.26][1259][implement] DAY18 :펠림드롬수](https://www.acmicpc.net/source/61261344)
+   5. [[2023.05.26][4153][Math] DAY19 : 직각삼각형](https://www.acmicpc.net/source/61261561)
+   6. [[2023.05.26][11650][Sort] DAY19 : 좌표 정렬하기](https://www.acmicpc.net/source/61262381)
+   7. [[2023.05.27][1697][bfs] DAY19 : 좌표 정렬하기](https://www.acmicpc.net/source/61348242)
