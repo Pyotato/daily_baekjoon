@@ -43,4 +43,4 @@
    4. [[2023.05.26][1259][implement] DAY18 :펠림드롬수](https://www.acmicpc.net/source/61261344)
    5. [[2023.05.26][4153][Math] DAY19 : 직각삼각형](https://www.acmicpc.net/source/61261561)
    6. [[2023.05.26][11650][Sort] DAY19 : 좌표 정렬하기](https://www.acmicpc.net/source/61262381)
-   7. [[2023.05.27][1697][bfs] DAY19 : 좌표 정렬하기](https://www.acmicpc.net/source/61348242)
+   7. [[2023.05.27][1697][bfs] DAY20 : 좌표 정렬하기](https://www.acmicpc.net/source/61348242)
