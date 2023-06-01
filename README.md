@@ -44,4 +44,10 @@
    5. [[2023.05.26][4153][Math] DAY19 : 직각삼각형](https://www.acmicpc.net/source/61261561)
    6. [[2023.05.26][11650][Sort] DAY19 : 좌표 정렬하기](https://www.acmicpc.net/source/61262381)
    7. [[2023.05.27][1697][bfs] DAY20 : 숨바꼭질](https://www.acmicpc.net/source/61348242)
-   8. [[2023.05.23][1620][data structure][hash][map] DAY21 : 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/source/61385991)
+   8. [[2023.05.28][1620][data structure][hash][map] DAY21 : 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/source/61385991)
+4. **WEEK4**
+   1. [[2023.05.29][11723][implement][bit masking] DAY22 : 집합](https://www.acmicpc.net/source/11723)
+   2. [[2023.05.30][1012][bfs][dfs] DAY23 : 유기농 배추 함수](https://www.acmicpc.net/source/61462908)
+   3. [[2023.05.31][1003][dp] DAY24 : 피보나치 함수](https://www.acmicpc.net/source/61514566)
+   4. [[2023.06.01][9375][implement][data structure][hash][map] DAY25 : 패션왕 신해빈](https://www.acmicpc.net/source/61556459)
+   5. [[2023.06.02][1764][data structure][hash][map] DAY26 : 듣보잡](https://www.acmicpc.net/source/61598460)
