@@ -51,3 +51,5 @@
    3. [[2023.05.31][1003][dp] DAY24 : 피보나치 함수](https://www.acmicpc.net/source/61514566)
    4. [[2023.06.01][9375][implement][data structure][hash][map] DAY25 : 패션왕 신해빈](https://www.acmicpc.net/source/61556459)
    5. [[2023.06.02][1764][data structure][hash][map] DAY26 : 듣보잡](https://www.acmicpc.net/source/61598460)
+   6. [[2023.06.02][10814][sort] DAY26 : 나이순 정렬](https://www.acmicpc.net/source/61599391)
+   7. [[2023.06.02][7576][bfs] DAY27 : 토마토](https://www.acmicpc.net/source/61599391)
