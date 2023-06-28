@@ -15,8 +15,14 @@
     - 반대로 난이도가 높다고 판단하면 브론즈 문제 포함하여 문제 풀이 진행
     - 난이도 판단기준 : 문제를 주어진 시간 내에 풀어 정답을 맞추고, 문제 제출까지 20분이내로 이루어진다.
 - 문제 풀이 방식
+
   - 30분 동안 풀이 진행
   - 30분 안에 제출 후, 30분 동안 더 문제를 풀어보거나 코드를 참고하여 내 코드로 풀어보는 방식
+
+## 🛠️ 리포지터리 업데이트 중단 및 재개(2023-06-28)
+
+- class4까지 [크래프톤 정글 동료분들과 알고리즘 스터디]()를 하여 진행하는 동안은 해당 리포지터리 업데이트 중단.
+- 완료 시점부터 이전풀이들을 이 리포지터리에 복사하여 재개.
 
 ## 목차
 
@@ -46,10 +52,42 @@
    7. [[2023.05.27][1697][bfs] DAY20 : 숨바꼭질](https://www.acmicpc.net/source/61348242)
    8. [[2023.05.28][1620][data structure][hash][map] DAY21 : 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/source/61385991)
 4. **WEEK4**
+
    1. [[2023.05.29][11723][implement][bit masking] DAY22 : 집합](https://www.acmicpc.net/source/11723)
    2. [[2023.05.30][1012][bfs][dfs] DAY23 : 유기농 배추 함수](https://www.acmicpc.net/source/61462908)
    3. [[2023.05.31][1003][dp] DAY24 : 피보나치 함수](https://www.acmicpc.net/source/61514566)
    4. [[2023.06.01][9375][implement][data structure][hash][map] DAY25 : 패션왕 신해빈](https://www.acmicpc.net/source/61556459)
    5. [[2023.06.02][1764][data structure][hash][map] DAY26 : 듣보잡](https://www.acmicpc.net/source/61598460)
    6. [[2023.06.02][10814][sort] DAY26 : 나이순 정렬](https://www.acmicpc.net/source/61599391)
-   7. [[2023.06.02][7576][bfs] DAY27 : 토마토](https://www.acmicpc.net/source/61599391)
+   7. [[2023.06.03][7576][bfs] DAY27 : 토마토](https://www.acmicpc.net/source/61637727)
+   8. [[2023.06.04][7662][priority queue][map with tree] DAY27 : 이중 우선순위 큐](https://www.acmicpc.net/source/62327030)
+   9. [[2023.06.05][14940][bfs] DAY28 : 쉬운 최단거리](https://www.acmicpc.net/source/61712323)
+
+5. **WEEK5**
+   1. [[2023.06.06][11659][prefix sum] DAY29 : 구간 합 구하기](https://www.acmicpc.net/source/61757027)
+   2. [[2023.06.07][1927][priority queue][data structure] DAY30 : 구간 합 구하기](https://www.acmicpc.net/source/61796004)
+   3. [[2023.06.07][1546][math] DAY30 : 평균](https://www.acmicpc.net/source/61796004)
+   4. [[2023.06.08][1149][dp] DAY31 : RGB거리](https://www.acmicpc.net/source/61840697)
+   5. [[2023.06.09][1918][data structure] DAY32 : 후위 표기식](https://www.acmicpc.net/source/61896989)
+   6. [[2023.06.10][1932][dp] DAY33 : 정수 삼각형](https://www.acmicpc.net/source/61913776)
+   7. [[2023.06.11][9465][dp] DAY34 : 스티커](https://www.acmicpc.net/source/61946178)
+6. **WEEK6**
+   1. [[2023.06.12][11660][dp] DAY35 : 구간 합 구하기](https://www.acmicpc.net/source/62006248)
+   2. [[2023.06.13][15650][backtracking] DAY36 :N과 M (2)](https://www.acmicpc.net/source/62017163)
+   3. [[2023.06.14][13549][dijkstra] DAY37 : 숨바꼭질 3](https://www.acmicpc.net/source/62095382)
+   4. [[2023.06.15][1753][dijkstra] DAY38 : 최단경로](https://www.acmicpc.net/source/62127503)
+   5. [[2023.06.16][1629][divide and conquer] DAY39 : 곱셈](https://www.acmicpc.net/source/59566451)
+   6. [[2023.06.17][2206][bfs] DAY40 : 벽 부수고 이동하기 ](https://www.acmicpc.net/source/62168222)
+   7. [[2023.06.18][15654][backtracking] DAY41 : N과 M (5) ](https://www.acmicpc.net/source/62203774)
+7. **WEEK7**
+   1. [[2023.06.19][15663][backtracking] DAY42 : N과 M (9) ](https://www.acmicpc.net/source/62251126)
+   2. [[2023.06.20][14888][backtracking][bruteforce] DAY43 : 연산자 끼워넣기 ](https://www.acmicpc.net/source/62313156)
+   3. [[2023.06.21][7662][priority queue] DAY43 :이중 우선순위 큐 ](https://www.acmicpc.net/source/62327030)
+   4. [[2023.06.22][1330][implementation] DAY44 : 두 수 비교하기](https://www.acmicpc.net/source/62400515)
+   5. [[2023.06.23][1238][dijkstra] DAY44 : 파티](https://www.acmicpc.net/source/62422606)
+   6. [[2023.06.24][11444][divide and conquer using power of N] DAY45 : 피보나치 수 6](https://www.acmicpc.net/source/62457856)
+   7. [[2023.06.24][1504][dijkstra] DAY45 : 특정한 최단 경로](https://www.acmicpc.net/source/62460477)
+   8. [[2023.06.24][1238][dijkstra] DAY45 : 파티](https://www.acmicpc.net/source/62460959)
+   9. [[2023.06.25][1167][dfs][tree] DAY46 : 트리의 지름](https://www.acmicpc.net/source/62497120)
+   10. [[2023.06.27][1967][dfs][tree] DAY47 : 트리의 지름](https://www.acmicpc.net/source/62588051)
+   11. [[2023.06.28][1456][math][Sieve of Eratosthenes] DAY48 : 거의 소수](https://www.acmicpc.net/source/62327030)
