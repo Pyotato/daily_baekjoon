@@ -90,5 +90,6 @@
    8. [[2023.06.24][1238][dijkstra] DAY45 : 파티](https://www.acmicpc.net/source/62460959)
    9. [[2023.06.25][1167][dfs][tree] DAY46 : 트리의 지름](https://www.acmicpc.net/source/62497120)
    10. [[2023.06.27][1967][dfs][tree] DAY47 : 트리의 지름](https://www.acmicpc.net/source/62588051)
-   11. [[2023.06.28][1456][math][Sieve of Eratosthenes] DAY48 : 거의 소수](https://www.acmicpc.net/source/62327030)
-   12. [[2023.06.29][11653][math] DAY49 : 소인수분해](https://www.acmicpc.net/source/62327030)
+   11. [[2023.06.28][1456][math][Sieve of Eratosthenes] DAY48 : 거의 소수](https://www.acmicpc.net/source/62673327)
+   12. [[2023.06.29][11653][math] DAY49 : 소인수분해](https://www.acmicpc.net/source/62740182)
+   13. [[2023.06.30][][] DAY50 : 소인수분해](https://www.acmicpc.net/source/62740182)
