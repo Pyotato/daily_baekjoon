@@ -95,3 +95,4 @@
    1. [[2023.06.29][11653][math] DAY49 : 소인수분해](https://www.acmicpc.net/source/62740182)
    2. [[2023.06.30][11720][implement][string] DAY50 : 숫자의 합](https://www.acmicpc.net/source/62745405)
    3. [[2023.07.01][11816][implement][math] DAY51 : 8진수, 10진수, 16진수](https://www.acmicpc.net/source/62782221)
+   4. [[2023.07.01][8595][implement][math] DAY51 : 히든 넘버](https://www.acmicpc.net/source/62811739)
