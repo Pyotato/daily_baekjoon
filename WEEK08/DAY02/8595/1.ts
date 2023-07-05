@@ -22,6 +22,7 @@
             place_value = place_value * 10;
           }
           if (i === 0 || !nums.includes(parseInt(word[i]))) {
+            //맨앞에서부터 숫자가 시작하거나 숫자가 아닌 경우
             if (place_value >= Math.pow(10, 7)) {
               place_value = 1;
               temp = 0;
