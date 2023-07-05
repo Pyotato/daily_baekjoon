@@ -97,4 +97,5 @@
    3. [[2023.07.01][11816][implement][math] DAY51 : 8진수, 10진수, 16진수](https://www.acmicpc.net/source/62782221)
    4. [[2023.07.01][8595][implement][math] DAY51 : 히든 넘버](https://www.acmicpc.net/source/62811739)
    5. [[2023.07.02][1269][data structure] DAY52 : 대칭 차집합](https://www.acmicpc.net/source/62831944)
-   6. [[2023.07.02][11728][sort] DAY52 : 배열 합치기](https://www.acmicpc.net/source/62831944)
+   6. [[2023.07.03][1406][stack] DAY53 : 에디터](https://www.acmicpc.net/source/62831944)
+   7. [[2023.07.05][9935][stack] DAY54 : 문자열 폭발](https://www.acmicpc.net/source/62985693)
