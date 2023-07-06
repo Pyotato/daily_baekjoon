@@ -99,3 +99,4 @@
    5. [[2023.07.02][1269][data structure] DAY52 : 대칭 차집합](https://www.acmicpc.net/source/62831944)
    6. [[2023.07.03][1406][stack] DAY53 : 에디터](https://www.acmicpc.net/source/62831944)
    7. [[2023.07.05][9935][stack] DAY54 : 문자열 폭발](https://www.acmicpc.net/source/62985693)
+   8. [[2023.07.06][2231][] DAY55 : 분해합](https://www.acmicpc.net/source/)
