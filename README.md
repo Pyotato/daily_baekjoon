@@ -39,7 +39,7 @@
    2. [[2023.05.17][data structure][double-ended-queue] DAY9 : 덱](https://www.acmicpc.net/source/60886868)
    3. [[2023.05.18][data structure][hash][binary search][sort] DAY10 : 숫자카드 2](https://www.acmicpc.net/source/60952461)
    4. [[2023.05.19][Math] DAY11 : 최대공약수와 최소공배수](https://www.acmicpc.net/source/60985646)
-   5. [[2023.05.20][bruteforce] DAY12 : 블랙잭](https://www.acmicpc.net/source/61028312)
+   5. [[2023.05.20][bruteforce][2798] DAY12 : 블랙잭](https://www.acmicpc.net/source/61028312)
    6. [[2023.05.21][bruteforce][dynamic programming] DAY13 : 설탕배달](https://www.acmicpc.net/source/61070408)
    7. [[2023.05.22][11050][Math][combination] DAY14 : 이항계수](https://www.acmicpc.net/source/61112734)
 3. **WEEK3**
@@ -99,4 +99,4 @@
    5. [[2023.07.02][1269][data structure] DAY52 : 대칭 차집합](https://www.acmicpc.net/source/62831944)
    6. [[2023.07.03][1406][stack] DAY53 : 에디터](https://www.acmicpc.net/source/62831944)
    7. [[2023.07.05][9935][stack] DAY54 : 문자열 폭발](https://www.acmicpc.net/source/62985693)
-   8. [[2023.07.06][2231][] DAY55 : 분해합](https://www.acmicpc.net/source/)
+   8. [[2023.07.06][2231][bruteforce] DAY55 : 분해합](https://www.acmicpc.net/source/)
