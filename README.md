@@ -92,6 +92,7 @@
    10. [[2023.06.27][1967][dfs][tree] DAY47 : 트리의 지름](https://www.acmicpc.net/source/62588051)
    11. [[2023.06.28][1456][math][Sieve of Eratosthenes] DAY48 : 거의 소수](https://www.acmicpc.net/source/62673327)
 8. **WEEK8**
+
    1. [[2023.06.29][11653][math] DAY49 : 소인수분해](https://www.acmicpc.net/source/62740182)
    2. [[2023.06.30][11720][implement][string] DAY50 : 숫자의 합](https://www.acmicpc.net/source/62745405)
    3. [[2023.07.01][11816][implement][math] DAY51 : 8진수, 10진수, 16진수](https://www.acmicpc.net/source/62782221)
@@ -99,4 +100,6 @@
    5. [[2023.07.02][1269][data structure] DAY52 : 대칭 차집합](https://www.acmicpc.net/source/62831944)
    6. [[2023.07.03][1406][stack] DAY53 : 에디터](https://www.acmicpc.net/source/62831944)
    7. [[2023.07.05][9935][stack] DAY54 : 문자열 폭발](https://www.acmicpc.net/source/62985693)
-   8. [[2023.07.06][2231][bruteforce] DAY55 : 분해합](https://www.acmicpc.net/source/)
+   8. [[2023.07.06][2231][bruteforce] DAY55 : 분해합](https://www.acmicpc.net/source/63094241)
+
+   9. [[2023.07.11][10974][모든 순열] DAY56 : ](https://www.acmicpc.net/source/)
